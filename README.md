@@ -1,4 +1,4 @@
-# CMPT480-ONLOCKProject
+# ONLOCKProject
 
 ## Environment
 Minikube.
